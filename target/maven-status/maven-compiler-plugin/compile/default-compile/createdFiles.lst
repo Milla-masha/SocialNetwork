@@ -1,0 +1,13 @@
+sjc\app\entity\Authorities.class
+sjc\app\repository\domain\DomainAuthorities.class
+sjc\app\web\IUserEndPoint.class
+sjc\app\repository\impl\UserRepository.class
+sjc\app\repository\dao\UserDAO.class
+sjc\app\service\UserService.class
+sjc\app\web\impl\UserEndPointImpl.class
+sjc\app\repository\base\GenericDao.class
+sjc\app\repository\jpa\AbstractJpaDAO.class
+sjc\app\entity\RegisterUser.class
+sjc\app\repository\domain\DomainRegisterUser.class
+sjc\app\service\impl\UserServiceImpl.class
+sjc\app\entity\AbstractPersistable.class
